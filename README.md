@@ -1,2 +1,2 @@
-# iOS-WeSplit
-iOS-SwiftUI tutorial with Paul hudson
+# WeSplit
+iOS-SwiftUI applicaiton for splitting restaurant bill
